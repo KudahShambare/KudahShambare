@@ -1,4 +1,4 @@
-### Kudakwashe Shambare
+# Kudakwashe Shambare
 
 ## Tech Stack
 
@@ -10,3 +10,8 @@
 - Typescript
 - PostgreSQL 
 - MySQL
+
+  ## Certifications
+
+- Microsoft Azure Fundamentals (AZ900)
+- FreeCodeCamp Responsive Web Design
