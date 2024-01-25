@@ -10,6 +10,7 @@
 - Typescript
 - PostgreSQL 
 - MySQL
+- Python
 
   ## Certifications
 
