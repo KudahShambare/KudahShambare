@@ -6,10 +6,10 @@
 - CSS
 - Javascript
 - React
+- React Native
 - Node.js (Express)
 - Typescript
-- PostgreSQL 
-- MySQL
+- SQL
 - Python
 
   ## Certifications
