@@ -1,4 +1,10 @@
-# Kudakwashe Shambare 
+# <font color="blue">Kudakwashe Shambare</font>
+
+## Skills
+- Software Development
+-  Machine Learning
+- Database Administration
+- Cloud Computing
 
 ## Tech Stack
 
