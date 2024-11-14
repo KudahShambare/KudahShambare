@@ -38,6 +38,6 @@
 
 
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=KudahShambare&show_icons=true&theme=radical)](https://github.com/KudahShambare/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=KudahShambare&show_icons=true&theme=radical)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudahShambare&langs_count=10)
