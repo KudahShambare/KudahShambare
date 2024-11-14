@@ -26,11 +26,11 @@
 
 ## Opensource Contributions
 
-* **[iCalendar (ics) file generator for node.js]**:  Contributed to README documentation, clarifying fs limitations in frontend libraries and providing alternative solution using file-saver module ([Pull Request Link]) ([Project Repository Link])
+* **[iCalendar (ics) file generator for node.js]**:  Contributed to README documentation, clarifying fs limitations in frontend libraries and providing alternative solution using file-saver module ([Pull Request Link] (https://github.com/adamgibbons/ics/pull/278)) ([Project Repository Link] (https://github.com/adamgibbons/ics))
 	+ Date: [16 September 2024]
 	+ Description: Improved documentation for frontend developers
 
-* **Lichground GNU Chess**: Added support for Stockfish 16 and Leela Chess Zero engines ([Pull Request Link]) ([Project Repository Link])
+* **Lichground GNU Chess**: Added support for Stockfish 16 and Leela Chess Zero engines ([Pull Request Link] (https://github.com/ml-research/liground/pull/282)) ([Project Repository Link] (https://github.com/ml-research/liground))
 	+ Date: [14 October 2024]
 	+ Description: Integrated two powerful chess engines to enhance gameplay and analysis
 
