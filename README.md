@@ -23,3 +23,20 @@
 
 - Microsoft Azure Fundamentals (AZ900)
 - FreeCodeCamp Responsive Web Design
+
+## Opensource Contributions
+
+* **[Project Name]**: Added npm import for Common JS compatibility ([Pull Request Link]) ([Project Repository Link])
+	+ Date: [Current Date]
+	+ Description: Improved compatibility by adding Common JS import
+
+* **Lichground GNU Chess**: Added support for Stockfish 16 and Leela Chess Zero engines ([Pull Request Link]) ([Project Repository Link])
+	+ Date: [Current Date]
+	+ Description: Integrated two powerful chess engines to enhance gameplay and analysis
+
+## GitHub Stats
+
+
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=KudahShambare&show_icons=true&theme=radical)](https://github.com/KudahShambare/github-readme-stats)
+
