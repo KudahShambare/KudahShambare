@@ -40,3 +40,4 @@
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=KudahShambare&show_icons=true&theme=radical)](https://github.com/KudahShambare/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudahShambare)](https://github.com/KudahShambare/github-readme-stats)
