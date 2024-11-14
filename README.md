@@ -5,7 +5,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kudahshambare/) (add your profile link)
+- [LinkedIn](https://www.linkedin.com/in/kudakwashe-shambare/) 
 
 
 
