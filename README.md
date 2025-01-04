@@ -3,9 +3,6 @@
 > Passionate about software development, machine learning, and contributing to open-source.
 
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kudakwashe-shambare/) 
 
 
 
