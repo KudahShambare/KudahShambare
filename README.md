@@ -13,7 +13,7 @@ Beyond standard web development, I am heavily invested in solving high-friction 
 *   **Frontend Architecture:** Architected a "Business-in-a-Pocket" Progressive Web App (PWA) specifically optimized for low mobile data consumption and minimal device storage in high-density urban areas.
 *   **Backend & Security:** Engineered a highly scalable, serverless Node.js backend. Designed optimized PostgreSQL schemas, implemented JWT-based authentication, and built secure transactional pipelines using the PayNow SDK.
 *   **DevOps & Growth:** Established automated CI/CD pipelines utilizing GitHub Actions and ensured code reliability with Jest. Executed technical SEO optimizations that successfully drove the platform to rank on the first page of Google for localized search terms.
-*   🔗 **[Visit Live Platform](https://your-loomo-url-here.com)**
+*   🔗 **[Visit Live Platform](https://loomo.co.zw)**
 
 ### [Fazh | AI-Powered Exam Practice Platform](https://your-fazh-url-here.com) *(Closed Source)*
 *   **Architecture:** Engineered a lightning-fast, full-stack application utilizing React (Vite) for an optimized frontend experience and a Node.js/Express backend to manage robust API routing and core logic.
@@ -24,12 +24,12 @@ Beyond standard web development, I am heavily invested in solving high-friction 
 ### [Indigenous Writers Hub | Digital Publishing Platform](https://your-writers-hub-url-here.com) *(Client Project)*
 *   **Architecture:** Engineered an end-to-end digital portal utilizing Next.js for a responsive, server-side rendered frontend and Supabase for the underlying database and API infrastructure.
 *   **Impact:** Delivered a secure, scalable platform to manage the profiles, publishing rights, and content distribution for a specialized directory of creative writers.
-*   🔗 **[Visit Live Portal](https://your-writers-hub-url-here.com)**
+*   🔗 **[Visit Live Portal](https://www.indigenouswritershub.co.zw/)**
 
 ### [NJ Private Health and Wellness | Corporate Landing Page](https://your-nj-health-url-here.com) *(Client Project)*
 *   **Frontend Architecture:** Developed a highly responsive React Single Page Application (SPA), utilizing component-based architecture for seamless client-side routing and fast, dynamic user interactions across all devices.
 *   **Impact & Conversion:** Engineered optimized page-load speeds and implemented technical SEO best practices to maximize local search visibility, drive client acquisition, and streamline patient inquiries for a premium healthcare clinic in Cape Town.
-*   🔗 **[Visit Live Site](https://your-nj-health-url-here.com)**
+*   🔗 **[Visit Live Site](https://test.lele.sigmoid.co.zw/)**
 
 ---
 
