@@ -29,7 +29,7 @@ Beyond standard web development, I am heavily invested in solving high-friction 
 ### [NJ Private Health and Wellness | Corporate Landing Page](https://your-nj-health-url-here.com) *(Client Project)*
 *   **Frontend Architecture:** Developed a highly responsive React Single Page Application (SPA), utilizing component-based architecture for seamless client-side routing and fast, dynamic user interactions across all devices.
 *   **Impact & Conversion:** Engineered optimized page-load speeds and implemented technical SEO best practices to maximize local search visibility, drive client acquisition, and streamline patient inquiries for a premium healthcare clinic in Cape Town.
-*   🔗 **[Visit Live Site](www.njprivatehealth.co.za/)**
+*   🔗 **[Visit Live Site](https://www.njprivatehealth.co.za/)**
 
 ---
 
