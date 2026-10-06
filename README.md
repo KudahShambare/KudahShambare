@@ -19,7 +19,7 @@ Beyond standard web development, I am heavily invested in solving high-friction 
 *   **Architecture:** Engineered a lightning-fast, full-stack application utilizing React (Vite) for an optimized frontend experience and a Node.js/Express backend to manage robust API routing and core logic.
 *   **AI Integration:** Built complex asynchronous data pipelines to interact seamlessly with the Gemini API, programmatically generating, parsing, and sanitizing LLM responses into structured data for interactive real-time assessments.
 *   **Performance:** Optimized backend API call latency and implemented efficient React state management to handle seamless, fluid transitions between dynamically generated quiz modules.
-*   🔗 **[Visit Live App]([https://your-fazh-url-here.com](https://aduk.sigmoid.co.zw/))**
+*   🔗 **[Visit Live App](https://aduk.sigmoid.co.zw/)**
 
 ### [Indigenous Writers Hub | Digital Publishing Platform](https://your-writers-hub-url-here.com) *(Client Project)*
 *   **Architecture:** Engineered an end-to-end digital portal utilizing Next.js for a responsive, server-side rendered frontend and Supabase for the underlying database and API infrastructure.
